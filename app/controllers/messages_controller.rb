@@ -4,10 +4,13 @@ class MessagesController < ApplicationController
   # GET /messages or /messages.json
   def index
     @messages = Message.all
+
   end
 
   # GET /messages/1 or /messages/1.json
   def show
+    @message = Message.all.sample
+    render json: @message, status: 200
   end
 
   # GET /messages/new
