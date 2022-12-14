@@ -194,7 +194,7 @@ If you like this project please support me by giving it a star .
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank  ![positronX.io](https://www.positronx.io/react-redux-handle-api-calls-with-thunk-middleware-tutorial/) for their good documentation and clear examples on implementing key features.
+I would like to thank  [positronX.io](https://www.positronx.io/react-redux-handle-api-calls-with-thunk-middleware-tutorial/) for their good documentation and clear examples on implementing key features.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
