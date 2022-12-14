@@ -2,7 +2,7 @@ import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
 //   value: 0,
-    message: ''
+    message: 'hello from slice'
 }
 
 export const greetingSlice = createSlice({
