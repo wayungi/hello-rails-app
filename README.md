@@ -204,13 +204,15 @@ I would like to thank  [positronX.io](https://www.positronx.io/react-redux-handl
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How else can  I connect a react and rails project**
 
-  - [Answer_1]
+  - Please follow this [link](https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355#ad0a) for clear documentation on the alternatives to connect your rails to eact app
 
-- **[Question_2]**
+- **How can I check my versions of Rails, Ruby and Node? **
 
-  - [Answer_2]
+  - node --version
+  - rails --version
+  - ruby --version
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
