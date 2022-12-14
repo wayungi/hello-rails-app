@@ -140,7 +140,7 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
-./bin/dev
+- ./bin/dev
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -149,19 +149,14 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Francis Wayungi**
 
-👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/wayungi)
+- Twitter: [@twitterhandle](https://twitter.com/FrancisWayungi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/francis-wayungi-3aa626231)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,9 +166,8 @@ To run the project, execute the following command:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Generate greetings depending on the time of day in diffferent parts of the world**
+- [ ] **Send the messages to email addresses of subscribers**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
