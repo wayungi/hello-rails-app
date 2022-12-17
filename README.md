@@ -202,26 +202,27 @@ I would like to thank  [positronX.io](https://www.positronx.io/react-redux-handl
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- **How else can  I connect a react and rails project**
+Things you may want to cover:
 
-  - Please follow this [link](https://betterprogramming.pub/react-with-rails-2022-bd28e1fcd355#ad0a) for clear documentation on the alternatives to connect your rails to eact app
+* Ruby version
 
-- **How can I check my versions of Rails, Ruby and Node? **
+* System dependencies
 
-  - node --version
-  - rails --version
-  - ruby --version
+* Configuration
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* Database creation
 
-<!-- LICENSE -->
+* Database initialization
 
-## 📝 License <a name="license"></a>
+* How to run the test suite
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+* Services (job queues, cache servers, search engines, etc.)
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+* Deployment instructions
+
+* ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
