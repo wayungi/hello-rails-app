@@ -1,8 +1,8 @@
 class MessagesController < ApplicationController
 
-  # GET /messages or /messages.json
+  # GET /messages
   def index
-    @messages = Message.all.sample
+    @message = Message.all.sample
     render json: @message, status: 200
   end
 
