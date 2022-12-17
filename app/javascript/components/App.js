@@ -4,15 +4,9 @@ import { Route, Routes, Link } from "react-router-dom"
 
 const App = () => (
     <>
-        <nav>
-            <ul>
-                <li><Link to="/greetings/show">Greeting</Link></li>
-            </ul>
-        </nav>
-
-        <Routes>
-            <Route path="/greetings/show" element={<Greeting />} />
-        </Routes>
+      <Routes>
+        <Route path="/greetings/show" element={<Greeting />} />
+      </Routes>
     </>
 );
 
