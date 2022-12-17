@@ -57,18 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Rails Appp <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> 
 
-**[your_project__name]** is a...
+**Hello rails app** is a project thats selecta a random greeting from a postgres database and displays it to a user on a React front-end.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
+> 
 <details>
   <summary>Client</summary>
   <ul>
@@ -79,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
   </ul>
 </details>
 
@@ -94,11 +93,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> 
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Random message generation**
+- **Integrates Rails and React**
+- **Users React toolkit (RTK)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +105,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> 
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -123,76 +122,26 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+ node v16 or upper
+ Ruby v 3.x.x
+ rails v 7.x.x
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Clone this repository to your desired folder: git@github.com:wayungi/hello-rails-app.git
+cd into hello-rails-app
 
 ### Install
 
 Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+ - run bundle install
+ -  npm install
 
 ### Usage
 
 To run the project, execute the following command:
+- ./bin/dev
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,19 +149,14 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Francis Wayungi**
 
-👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/wayungi)
+- Twitter: [@twitterhandle](https://twitter.com/FrancisWayungi)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/francis-wayungi-3aa626231)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,9 +166,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Generate greetings depending on the time of day in diffferent parts of the world**
+- [ ] **Send the messages to email addresses of subscribers**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,9 +185,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project please support me by giving it a star .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,9 +193,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank  [positronX.io](https://www.positronx.io/react-redux-handle-api-calls-with-thunk-middleware-tutorial/) for their good documentation and clear examples on implementing key features.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,25 +202,27 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-- **[Question_1]**
+Things you may want to cover:
 
-  - [Answer_1]
+* Ruby version
 
-- **[Question_2]**
+* System dependencies
 
-  - [Answer_2]
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
